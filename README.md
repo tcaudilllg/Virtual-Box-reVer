@@ -14,10 +14,10 @@ creates for itself in HOME folder into the folder containing this script and ren
 
 Vbox.txt should probably look something like this:
 
-Vbox 5 32-bit
+`Vbox 5 32-bit
 vbox5_32.xml
 Vbox 6.1 64-bit
-vbox6.1_32.xml
+vbox6.1_32.xml`
 
 When you run the script you'll get a menu with the options you created. Making a selection will overwrite the existing VirtualBox.xml file with the associated copy,
 thus enabling you to use that version of Virtual Box.
